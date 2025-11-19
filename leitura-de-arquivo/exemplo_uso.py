@@ -14,7 +14,7 @@ from python import calcular_expressoes_e_gravar_resultados
 
 # Definindo os nomes dos arquivos
 arquivo_entrada = "expressoes_entrada.txt"
-arquivo_saida = "resultados_saida.txt"
+arquivo_saida = "resultados_saida_python.txt"
 
 # Executando a função
 # A função já possui logs detalhados internos, então não precisamos
